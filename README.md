@@ -1,6 +1,8 @@
 # Minorities-in-Formula-1-Headlines
 
+## Kassie Felix Green
 
+![Header Image](https://cdn.racingnews365.com/_975xAUTO_fit_center-center_85_none/XPB_1263411_HiRes-1.jpg?v=1709553614)
 
 	In the sport Formula 1, an open-wheel motorsport series, there are 20 spots on the grid. Historically, the people included within the sport are non-latino White men, with little room for minority participants. In 2007, Lewis Hamilton competed in Formula 1 for the first time, becoming the first and only black man to compete within the sport. In addition, the sport has a limited number of Asian drivers, many of whom were Japanese and encouraged into the sport by engine manufacturers from Japan. As the sport has existed since 1950 as a series, this showcases how slow progress has occurred within the sport in terms of who is allowed into the sport as a whole. In the recent season of Formula 1, minority drivers make up 5 of the 20 drivers on the grid. While this makes up a fourth of the grid, it is only recently that Formula 1 has seen so many drivers of a minority group. Often, these drivers are critiqued more harshly by fans and commentators. As such, I wished to discover if there was a relationship between headlines about minorities and word choice necessary. 
 
