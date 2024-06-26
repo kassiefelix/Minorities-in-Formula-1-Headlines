@@ -15,16 +15,12 @@
 
 ### Repository Format
 
-<ol>
-  <li>**Article Title Files** Holds text files for each driver's headlines. If the code is ran separately, these files need to be installed and the correct directory needs to be set in order to run this correctly. </li>
-    <ol>
-      <li>Alexander Albon.txt</li>
-      <li>Lewis Hamilton.txt</li>
-     <li>Sergio Perez.txt</li>
-     <li>Yuki Tsunoda.txt</li>
-     <li>Zhou Guanyu.txt</li>
-    </ol>
-  </li>
-  <li>**Minorities in Formula 1 Headlines Project.ipynb** Notebook file for analysis of the headlines available.</li>
- <li> **README.MD** This document, gives information about how to utilize this repository.</li>
-</ol> 
+1. **Article Title Files** Holds text files for each driver's headlines. If the code is ran separately, these files need to be installed and the correct directory needs to be set in order to run this correctly. </li>
+- Alexander Albon.txt
+- Lewis Hamilton.txt
+- Sergio Perez.txt
+- Yuki Tsunoda.txt
+- Zhou Guanyu.txt
+2. **Minorities in Formula 1 Headlines Project.ipynb** Notebook file for analysis of the headlines available.
+3. **README.MD** This document, gives information about how to utilize this repository.
+
