@@ -1,4 +1,4 @@
-# Minorities-in-Formula-1-Headlines
+# Minorities in Formula 1 Headlines
 
 ## Kassie Felix Green
 
